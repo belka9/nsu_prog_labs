@@ -40,4 +40,4 @@
 [build12]: https://travis-matrix-badges.herokuapp.com/repos/bobrofon/nsu_prog_labs/branches/master/12
 [build13]: https://travis-matrix-badges.herokuapp.com/repos/bobrofon/nsu_prog_labs/branches/master/13
 
-[build-link]: https://travis-ci.org/bobrofon/nsu_prog_labs
+[build-link]: https://travis-ci.org/belka9/nsu_prog_labs
